@@ -1,8 +1,7 @@
-import {Link} from "react-router-dom";
-import Header from "../Header.jsx";
-
 export default function IndexPage() {
     return (
-        <Header />
+        <div>
+            index page here
+        </div>
     );
 }
